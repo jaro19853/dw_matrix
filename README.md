@@ -1,6 +1,3 @@
-#Projekt transformacja, Matrix poznaj reguly gry
- tutaj pojawia sie 5 dni projektu transformacjii-czesc pierwsza
+#Project transformation - Matrix (5 days)
+5 consecutive days everyday something new will appear on here
  
-	-a-
- -b-
- -c-
